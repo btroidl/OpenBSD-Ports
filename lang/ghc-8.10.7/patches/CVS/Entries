@@ -1,0 +1,10 @@
+/patch-configure/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-ghc_mk/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-includes_rts_Messages_h/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-libraries_Cabal_Cabal_Distribution_Simple_Program_Strip_hs/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-libraries_base_configure/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-mk_install_mk_in/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-rts_RtsMessages_c/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-rts_Stats_c/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+/patch-utils_iserv_ghc_mk/1.1.1.1/Thu Mar  9 18:59:42 2023//TOPENBSD_7_4
+D

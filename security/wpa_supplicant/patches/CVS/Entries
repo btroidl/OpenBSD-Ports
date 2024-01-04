@@ -1,0 +1,12 @@
+/patch-src_drivers_driver_openbsd_c/1.8/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-src_p2p_p2p_c/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-src_radius_radius_client_c/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-src_utils_eloop_c/1.9/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-src_utils_os_unix_c/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-wpa_supplicant_Makefile/1.11/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-wpa_supplicant__config/1.1/Fri Apr 15 17:41:28 2022//TOPENBSD_7_4
+/patch-wpa_supplicant_config_h/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-wpa_supplicant_ctrl_iface_c/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-wpa_supplicant_main_c/1.4/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+/patch-wpa_supplicant_scan_c/1.2/Fri Mar 11 19:54:09 2022//TOPENBSD_7_4
+D

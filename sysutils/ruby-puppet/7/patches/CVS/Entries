@@ -1,0 +1,10 @@
+/patch-install_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_defaults_rb/1.2/Wed Jul 26 15:54:33 2023//TOPENBSD_7_4
+/patch-lib_puppet_gettext_config_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_provider_package_gem_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_provider_package_openbsd_rb/1.2/Fri Feb 24 21:51:01 2023//TOPENBSD_7_4
+/patch-lib_puppet_provider_package_pip3_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_provider_package_pip_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_reference_configuration_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+/patch-lib_puppet_util_run_mode_rb/1.1.1.1/Fri Jan 20 20:53:43 2023//TOPENBSD_7_4
+D

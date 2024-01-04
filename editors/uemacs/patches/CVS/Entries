@@ -1,0 +1,19 @@
+/patch-Makefile/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-freebsd_estruct_h/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-freebsd_makefile/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-h_ebind_h/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-h_epath_h/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-h_eproto_h/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-openbsd_estruct_h/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-openbsd_makefile/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_bind_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_char_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_dolock_c/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_eval_c/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_file_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_fileio_c/1.2/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_input_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_keyboard_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_lock_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+/patch-src_unix_c/1.3/Fri Mar 11 18:58:36 2022//TOPENBSD_7_4
+D

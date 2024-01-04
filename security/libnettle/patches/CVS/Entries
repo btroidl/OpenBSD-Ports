@@ -1,0 +1,12 @@
+/patch-Makefile_in/1.15/Fri May 19 06:36:45 2023//TOPENBSD_7_4
+/patch-arm64_chacha-2core_asm/1.2/Thu Jan 19 12:23:58 2023//TOPENBSD_7_4
+/patch-arm64_chacha-4core_asm/1.4/Thu Jan 19 12:23:58 2023//TOPENBSD_7_4
+/patch-arm64_chacha-core-internal_asm/1.2/Thu Jan 19 12:23:58 2023//TOPENBSD_7_4
+/patch-configure_ac/1.2/Fri May 19 06:36:45 2023//TOPENBSD_7_4
+/patch-ecc-point-mul-g_c/1.3/Fri Mar 11 19:53:31 2022//TOPENBSD_7_4
+/patch-ecc-random_c/1.3/Fri Mar 11 19:53:31 2022//TOPENBSD_7_4
+/patch-pss-mgf1_c/1.2/Fri Mar 11 19:53:31 2022//TOPENBSD_7_4
+/patch-x86_64_sha3-permute_asm/1.1/Thu Jan 19 10:32:12 2023//TOPENBSD_7_4
+/patch-x86_64_sha_ni_sha1-compress_asm/1.1/Thu Jan 19 10:32:12 2023//TOPENBSD_7_4
+/patch-x86_64_sha_ni_sha256-compress-n_asm/1.1/Fri May 19 06:36:45 2023//TOPENBSD_7_4
+D

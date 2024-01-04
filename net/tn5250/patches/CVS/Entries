@@ -1,0 +1,4 @@
+/patch-curses_cursesterm_h/1.2/Fri Mar 11 19:47:52 2022//TOPENBSD_7_4
+/patch-curses_tn5250_c/1.1/Mon Feb  6 19:08:30 2023//TOPENBSD_7_4
+/patch-lib5250_sslstream_c/1.2/Fri Mar 11 19:47:52 2022//TOPENBSD_7_4
+D

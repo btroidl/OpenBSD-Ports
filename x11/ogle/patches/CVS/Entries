@@ -1,0 +1,13 @@
+/patch-ac3_ac3dec_wrap_c/1.2/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-ac3_audio_play_c/1.2/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-configure/1.10/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-dvd_cli_Makefile_in/1.2/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-libogleao_obsd_audio_c/1.5/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-mpeg2_video_Makefile_in/1.8/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-mpeg2_video_spu_mixer_c/1.6/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-mpeg2_video_spu_mixer_h/1.4/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-mpeg2_video_video_output_x11_c/1.10/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-mpeg2_video_yuv2rgb_mmx_c/1.7/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-scripts_ogle_in/1.2/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+/patch-vmg_Makefile_in/1.2/Fri Mar 11 20:16:50 2022//TOPENBSD_7_4
+D

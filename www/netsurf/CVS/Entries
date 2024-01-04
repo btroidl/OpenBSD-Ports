@@ -1,0 +1,19 @@
+/Makefile/1.8/Fri Mar 11 20:10:07 2022//TOPENBSD_7_4
+/Makefile.inc/1.23/Wed Sep 27 19:13:03 2023//TOPENBSD_7_4
+D/browser////
+D/buildsystem////
+D/hubbub////
+D/libcss////
+D/libdom////
+D/libnsbmp////
+D/libnsfb////
+D/libnsgif////
+D/libnslog////
+D/libnspsl////
+D/libnsutils////
+D/libparserutils////
+D/libsvgtiny////
+D/libutf8proc////
+D/libwapcaplet////
+D/netsurf-fb////
+D/nsgenbind////

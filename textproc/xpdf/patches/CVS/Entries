@@ -1,0 +1,11 @@
+/patch-Makefile_in/1.5/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-doc_sample-xpdfrc/1.6/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-splash_Makefile_in/1.5/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-splash_SplashXPath_cc/1.7/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-splash_SplashXPath_h/1.4/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-xpdf_GlobalParams_cc/1.7/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-xpdf_JBIG2Stream_cc/1.1/Wed Aug 24 08:00:05 2022//TOPENBSD_7_4
+/patch-xpdf_Makefile_in/1.9/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-xpdf_TextOutputDev_cc/1.2/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+/patch-xpdf_XRef_cc/1.10/Fri Mar 11 20:03:36 2022//TOPENBSD_7_4
+D

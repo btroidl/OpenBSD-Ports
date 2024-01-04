@@ -1,0 +1,19 @@
+/patch-CMakeLists_txt/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-cmake_modules_CMakeCommon_cmake/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-drivers_auxiliary_skysafari_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-drivers_dome_scopedome_dome_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-drivers_telescope_lx200driver_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-indidevapi_h/1.1.1.1/Sat Oct 15 12:30:46 2022//TOPENBSD_7_4
+/patch-indiserver_cpp/1.1.1.1/Sat Oct 15 12:30:46 2022//TOPENBSD_7_4
+/patch-libs_indibase_alignment_CMakeLists_txt/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_indibase_connectionplugins_connectiontcp_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_indibase_hid_libusb_c/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_indibase_indidome_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_indibase_inditelescope_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_indicom_c/1.1.1.1/Sat Oct 15 12:30:46 2022//TOPENBSD_7_4
+/patch-libs_webcam_pwc-ioctl_h/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_webcam_v4l2_base_cpp/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_webcam_v4l2_base_h/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_webcam_v4l2_colorspace_h/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+/patch-libs_webcam_v4l2_decode_v4l2_decode_h/1.1.1.1/Sat Oct 15 12:30:47 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,6 @@
+/patch-configure/1.14/Mon Dec  5 08:59:32 2022//TOPENBSD_7_4
+/patch-configure_host/1.4/Mon Dec  5 08:59:32 2022//TOPENBSD_7_4
+/patch-src_arm_ffi_c/1.12/Mon Dec  5 08:59:32 2022//TOPENBSD_7_4
+/patch-src_closures_c/1.5/Mon Dec  5 08:59:32 2022//TOPENBSD_7_4
+/patch-testsuite_lib_libffi_exp/1.5/Mon Dec  5 08:59:32 2022//TOPENBSD_7_4
+D

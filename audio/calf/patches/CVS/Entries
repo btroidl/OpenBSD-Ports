@@ -1,0 +1,12 @@
+/patch-configure/1.3/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_benchmark_cpp/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_calf_buffer_h/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_calf_fixed_point_h/1.3/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_calf_giface_h/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_calf_primitives_h/1.4/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_ctl_curve_cpp/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_ctl_keyboard_cpp/1.3/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_ctl_led_cpp/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_osctlnet_cpp/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+/patch-src_preset_cpp/1.2/Fri Mar 11 18:20:05 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,6 @@
+/patch-runtime_autoload_tar_vim/1.4/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-runtime_filetype_vim/1.46.2.1/Tue Oct 17 08:42:23 2023//TOPENBSD_7_4
+/patch-runtime_syntax_fstab_vim/1.7/Fri Jan  6 18:23:08 2023//TOPENBSD_7_4
+/patch-runtime_syntax_make_vim/1.15/Wed Nov 30 15:52:06 2022//TOPENBSD_7_4
+/patch-src_configure_ac/1.21.2.1/Tue Oct 17 08:42:23 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,19 @@
+/patch-build-cmake_CMakeLists_txt/1.1/Thu Sep 14 09:45:28 2023//TOPENBSD_7_4
+/patch-configure_ac/1.4/Thu Sep 14 09:45:28 2023//TOPENBSD_7_4
+/patch-protoc-c_c_bytes_field_h/1.1/Thu Sep 14 09:45:28 2023//TOPENBSD_7_4
+/patch-protoc-c_c_enum_field_h/1.1/Thu Sep 14 09:45:28 2023//TOPENBSD_7_4
+/patch-protoc-c_c_enum_h/1.1/Thu Sep 14 09:45:28 2023//TOPENBSD_7_4
+/patch-protoc-c_c_extension_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_field_h/1.3/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_file_cc/1.3/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_file_h/1.3/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_generator_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_helpers_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_message_cc/1.3/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_message_field_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_message_h/1.3/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_primitive_field_cc/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_primitive_field_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_service_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+/patch-protoc-c_c_string_field_h/1.1/Thu Sep 14 09:45:29 2023//TOPENBSD_7_4
+D

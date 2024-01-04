@@ -1,0 +1,7 @@
+/patch-client_allocdir_fs_openbsd_go/1.2/Fri Mar 11 19:57:43 2022//TOPENBSD_7_4
+/patch-command_agent_host_openbsd_go/1.2/Fri Mar 11 19:57:43 2022//TOPENBSD_7_4
+/patch-command_agent_host_unix_go/1.4/Wed Jul 19 15:46:54 2023//TOPENBSD_7_4
+/patch-command_agent_log_file_bsd_go/1.4/Wed Jul 19 15:46:54 2023//TOPENBSD_7_4
+/patch-drivers_docker_driver_openbsd_go/1.2/Fri Mar 11 19:57:43 2022//TOPENBSD_7_4
+/patch-vendor_github_com_mitchellh_go-ps_process_openbsd_go/1.2/Fri Mar 11 19:57:43 2022//TOPENBSD_7_4
+D

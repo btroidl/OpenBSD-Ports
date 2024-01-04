@@ -1,0 +1,23 @@
+/patch-Modules_CMakeUnixFindMake_cmake/1.9/Mon Jul 18 18:24:32 2022//TOPENBSD_7_4
+/patch-Modules_Compiler_G95-Fortran_cmake/1.6/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_Compiler_GNU-Fortran_cmake/1.11/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_Compiler_GNU_cmake/1.20/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Modules_FindMPEG2_cmake/1.12/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindMPEG_cmake/1.13/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindOpenMP_cmake/1.6/Sat May 28 06:18:52 2022//TOPENBSD_7_4
+/patch-Modules_FindSDL_cmake/1.14/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindTCL_cmake/1.18/Mon Jul 18 18:24:32 2022//TOPENBSD_7_4
+/patch-Modules_FindTclStub_cmake/1.9/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindTclsh_cmake/1.8/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindWish_cmake/1.7/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_FindXMLRPC_cmake/1.10/Fri Mar 11 18:49:50 2022//TOPENBSD_7_4
+/patch-Modules_Platform_OpenBSD_cmake/1.21/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmFileCommand_cxx/1.13/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmFindPackageCommand_cxx/1.7/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmGeneratorTarget_cxx/1.24/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmGlobalGenerator_cxx/1.24/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmInstallCommand_cxx/1.23/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmMessenger_cxx/1.6/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_cmTarget_cxx/1.44/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+/patch-Source_kwsys_CMakeLists_txt/1.11/Thu Aug  3 07:53:15 2023//TOPENBSD_7_4
+D

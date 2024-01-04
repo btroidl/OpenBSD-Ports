@@ -1,0 +1,13 @@
+/patch-Makefile_in/1.5/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-configure/1.9/Sun Oct  9 14:43:36 2022//TOPENBSD_7_4
+/patch-make_common_mak/1.6/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-make_lib_mak/1.13/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-make_unix_mak/1.11/Thu Oct  6 18:19:31 2022//TOPENBSD_7_4
+/patch-plugins_Makefile_in/1.5/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-plugins_configure/1.2/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-plugins_vidinput_bsd_vidinput_bsd_cxx/1.5/Thu Oct  6 18:19:31 2022//TOPENBSD_7_4
+/patch-plugins_vidinput_v4l2_vidinput_names_cxx/1.4/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-plugins_vidinput_v4l2_vidinput_v4l2_cxx/1.6/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+/patch-src_ptclib_pssl_cxx/1.8/Thu Oct  6 18:19:31 2022//TOPENBSD_7_4
+/patch-src_ptlib_unix_socket_cxx/1.6/Fri Mar 11 18:52:31 2022//TOPENBSD_7_4
+D

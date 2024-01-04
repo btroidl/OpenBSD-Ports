@@ -1,0 +1,19 @@
+Fix for ghostscript 10.02.1 (finddevice removed) by backporting
+https://gitlab.com/lilypond/lilypond/-/merge_requests/2160/diffs?commit_id=3d1a7fa40fae01c40c60344a09d0bcf01896557a
+
+Index: scripts/build/output-distance.py
+--- scripts/build/output-distance.py.orig
++++ scripts/build/output-distance.py
+@@ -720,10 +720,10 @@ class SignatureFileLink (FileLink):
+             for f in glob.glob(base):
+                 outfile = (out_dir + '/' + f).replace('.eps', '.png')
+                 driver.write('''
+-                mark /OutputFile (%s)
++                << /OutputFile (%s)
+                 /GraphicsAlphaBits 4 /TextAlphaBits 4
+                 /HWResolution [101 101]
+-                (png16m) finddevice putdeviceprops setdevice
++                /OutputDevice /png16m >> setpagedevice
+                 (%s) run
+                 ''' % (outfile, f))
+                 files_created[oldnew].append(outfile)

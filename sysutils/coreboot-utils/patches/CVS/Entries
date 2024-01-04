@@ -1,0 +1,4 @@
+/patch-util_cbmem_cbmem_c/1.6/Mon Jul  4 16:36:53 2022//TOPENBSD_7_4
+/patch-util_ectool_ectool_c/1.4/Thu Mar  3 18:04:46 2022//TOPENBSD_7_4
+/patch-util_nvramtool_accessors_cmos-hw-unix_c/1.1/Thu Mar  3 18:05:56 2022//TOPENBSD_7_4
+D

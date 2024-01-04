@@ -1,0 +1,14 @@
+/all-openbsd.js/1.3/Tue Jul 28 14:21:48 2020//TOPENBSD_7_4
+/pledge.content/1.4/Tue Jul 26 13:22:07 2022//TOPENBSD_7_4
+/pledge.gpu/1.3/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/pledge.main/1.3/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/pledge.rdd/1.2/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/pledge.socket/1.2/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/pledge.utility/1.2/Tue Aug  1 14:04:39 2023//TOPENBSD_7_4
+/unveil.content/1.13/Wed Sep 13 07:38:40 2023//TOPENBSD_7_4
+/unveil.gpu/1.7/Wed Sep 13 07:38:40 2023//TOPENBSD_7_4
+/unveil.main/1.12/Wed Sep 13 07:38:40 2023//TOPENBSD_7_4
+/unveil.rdd/1.2/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/unveil.socket/1.2/Fri Mar 11 20:09:44 2022//TOPENBSD_7_4
+/unveil.utility/1.2/Tue Aug  1 14:04:39 2023//TOPENBSD_7_4
+D

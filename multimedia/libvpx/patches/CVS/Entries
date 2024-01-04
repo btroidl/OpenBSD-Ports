@@ -1,0 +1,7 @@
+/patch-build_make_Makefile/1.17/Tue Oct  4 11:30:19 2022//TOPENBSD_7_4
+/patch-configure/1.25/Sun Apr  9 06:15:33 2023//TOPENBSD_7_4
+/patch-examples_mk/1.11/Fri Mar 11 19:39:22 2022//TOPENBSD_7_4
+/patch-libs_mk/1.22/Tue Oct  4 11:30:19 2022//TOPENBSD_7_4
+/patch-vpx_ports_arm_cpudetect_c/1.4/Sun Mar 13 13:50:53 2022//TOPENBSD_7_4
+/patch-vpx_ports_ppc_cpudetect_c/1.2/Fri Mar 11 19:39:22 2022//TOPENBSD_7_4
+D

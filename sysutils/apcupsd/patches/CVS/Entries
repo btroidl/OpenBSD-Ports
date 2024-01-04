@@ -1,0 +1,5 @@
+/patch-configure/1.4/Fri Mar 11 19:57:11 2022//TOPENBSD_7_4
+/patch-platforms_openbsd_Makefile/1.2/Fri Mar 11 19:57:11 2022//TOPENBSD_7_4
+/patch-platforms_openbsd_apccontrol_in/1.3/Fri Mar 11 19:57:11 2022//TOPENBSD_7_4
+/patch-src_gapcmon_gapcmon_h/1.2/Fri Mar 11 19:57:11 2022//TOPENBSD_7_4
+D

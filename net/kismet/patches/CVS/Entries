@@ -1,0 +1,13 @@
+/patch-conf_kismet_conf_in/1.8/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-config_h_in/1.3/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-kis_panel_widgets_cc/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-macaddr_h/1.5/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-man_kismet_drone_conf_5/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-netracker_h/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-packetsource_bsdrt_cc/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-packetsource_pcap_cc/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-tcpclient_cc/1.5/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-tcpserver_cc/1.6/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-unixdomainserver_cc/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+/patch-uuid_h/1.2/Fri Mar 11 19:46:11 2022//TOPENBSD_7_4
+D

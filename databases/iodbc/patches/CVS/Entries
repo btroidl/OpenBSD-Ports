@@ -1,0 +1,14 @@
+/patch-admin_libiodbc_pc_in/1.6/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-bin_iodbc-config_in/1.4/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-etc_odbc_ini_sample/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-etc_odbcinst_ini_sample/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbc_connect_c/1.4/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcadm_drvconn_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcadm_gtk_administrator_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcinst_SQLConfigDataSource_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcinst_SQLConfigDriver_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcinst_SQLCreateDataSource_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcinst_SQLGetTranslator_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-iodbcinst_SQLManageDataSource_c/1.3/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+/patch-samples_Makefile_in/1.8/Mon Mar  7 21:36:42 2022//TOPENBSD_7_4
+D

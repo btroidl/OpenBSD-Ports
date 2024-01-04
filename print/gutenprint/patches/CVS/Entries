@@ -1,0 +1,5 @@
+/patch-configure/1.14/Fri Mar 11 19:51:01 2022//TOPENBSD_7_4
+/patch-src_cups_backend_common_h/1.4/Fri Mar 11 19:51:01 2022//TOPENBSD_7_4
+/patch-src_escputil_escputil_c/1.2/Fri Mar 11 19:51:01 2022//TOPENBSD_7_4
+/patch-src_gutenprintui2_plist_c/1.6/Fri Mar 11 19:51:01 2022//TOPENBSD_7_4
+D

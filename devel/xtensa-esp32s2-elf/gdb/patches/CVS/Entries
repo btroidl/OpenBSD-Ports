@@ -1,0 +1,8 @@
+/patch-bfd_xtensa-modules_c/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-gdb_gdbserver_xtensa-regmap_c/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-gdb_gdbserver_xtensa-xtregs_c/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-gdb_regformats_reg-xtensa_dat/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-gdb_xtensa-config_c/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-gdb_xtensa-xtregs_c/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+/patch-include_xtensa-config_h/1.1.1.1/Mon Jun 27 10:04:22 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-build_sh/1.7/Wed Aug 24 18:32:15 2022//TOPENBSD_7_4
+/patch-config_nim_cfg/1.8/Fri May  5 02:15:12 2023//TOPENBSD_7_4
+/patch-dist_nimble_src_nimblepkg_options_nim/1.2/Fri Mar 11 19:29:08 2022//TOPENBSD_7_4
+/patch-lib_pure_asyncnet_nim/1.1/Fri May  5 02:15:12 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,48 @@
+/.cvsignore/1.14/Sat Nov  8 10:00:13 2014//TOPENBSD_7_4
+/.gitignore/1.1/Tue Apr 28 10:55:03 2020//TOPENBSD_7_4
+/Makefile/1.87/Sat Nov  6 19:09:10 2021//TOPENBSD_7_4
+/README/1.25/Tue Feb  7 17:53:15 2023//TOPENBSD_7_4
+D/archivers////
+D/astro////
+D/audio////
+D/benchmarks////
+D/biology////
+D/books////
+D/cad////
+D/chinese////
+D/comms////
+D/converters////
+D/databases////
+D/devel////
+D/editors////
+D/education////
+D/emulators////
+D/fonts////
+D/games////
+D/geo////
+D/graphics////
+D/infrastructure////
+D/inputmethods////
+D/japanese////
+D/java////
+D/korean////
+D/lang////
+D/mail////
+D/math////
+D/meta////
+D/misc////
+D/multimedia////
+D/net////
+D/news////
+D/plan9////
+D/print////
+D/productivity////
+D/security////
+D/shells////
+D/sysutils////
+D/telephony////
+D/tests////
+D/textproc////
+D/wayland////
+D/www////
+D/x11////

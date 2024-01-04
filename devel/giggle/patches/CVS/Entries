@@ -1,0 +1,8 @@
+/patch-configure/1.9/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-libgiggle-git_Makefile_in/1.6/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-libgiggle_Makefile_in/1.6/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-plugins_Makefile_in/1.2/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-plugins_giggle-view-terminal_c/1.5/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-src_giggle-diff-view_h/1.4/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+/patch-src_giggle-view-file_c/1.3/Fri Mar 11 18:50:05 2022//TOPENBSD_7_4
+D

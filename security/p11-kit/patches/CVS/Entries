@@ -1,0 +1,5 @@
+/patch-common_compat_c/1.8/Fri Mar 11 19:53:38 2022//TOPENBSD_7_4
+/patch-common_message_c/1.2/Fri Mar 11 19:53:38 2022//TOPENBSD_7_4
+/patch-common_unix-peer_c/1.2/Fri Mar 11 19:53:38 2022//TOPENBSD_7_4
+/patch-p11-kit_server_c/1.4/Sun Jul  2 23:15:40 2023//TOPENBSD_7_4
+D

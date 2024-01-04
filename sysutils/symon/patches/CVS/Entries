@@ -1,0 +1,7 @@
+/patch-platform_OpenBSD_platform_h/1.6/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+/patch-platform_OpenBSD_sm_cpu_c/1.5/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+/patch-platform_OpenBSD_sm_mbuf_c/1.9/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+/patch-platform_OpenBSD_sm_mem_c/1.2/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+/patch-symon_symon_8/1.2/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+/patch-symux_c_smrrds_sh/1.2/Fri Mar 11 19:58:04 2022//TOPENBSD_7_4
+D

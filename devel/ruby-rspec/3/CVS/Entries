@@ -1,0 +1,8 @@
+/Makefile/1.4/Mon Sep  4 15:10:37 2023//TOPENBSD_7_4
+/Makefile.inc/1.7/Fri Mar 11 18:53:18 2022//TOPENBSD_7_4
+D/core////
+D/expectations////
+D/its////
+D/mocks////
+D/rspec////
+D/support////

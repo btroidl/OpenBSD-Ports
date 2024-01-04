@@ -1,0 +1,5 @@
+/patch-lib_googlecloudsdk_core_config_json/1.8/Fri Mar 11 19:57:30 2022//TOPENBSD_7_4
+/patch-lib_googlecloudsdk_core_updater_local_state_py/1.14/Wed Sep 20 12:39:45 2023//TOPENBSD_7_4
+/patch-lib_googlecloudsdk_core_util_platforms_py/1.17/Wed Apr 12 07:11:53 2023//TOPENBSD_7_4
+/patch-platform_gsutil_gslib_commands_config_py/1.19/Thu Apr 20 07:14:56 2023//TOPENBSD_7_4
+D

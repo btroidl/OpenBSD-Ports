@@ -1,0 +1,6 @@
+/patch-configure/1.3/Fri Mar 11 19:46:53 2022//TOPENBSD_7_4
+/patch-icons_Makefile_in/1.3/Fri Mar 11 19:46:53 2022//TOPENBSD_7_4
+/patch-src_gui_common_c/1.2/Fri Mar 11 19:46:53 2022//TOPENBSD_7_4
+/patch-src_myssl_openssl_c/1.5/Fri Mar 11 19:46:53 2022//TOPENBSD_7_4
+/patch-src_ntlm_auth_c/1.2/Fri Mar 11 19:46:53 2022//TOPENBSD_7_4
+D

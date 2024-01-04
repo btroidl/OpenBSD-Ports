@@ -1,0 +1,6 @@
+/patch-configure/1.3/Fri Mar 11 19:54:04 2022//TOPENBSD_7_4
+/patch-softhsm2_module_in/1.2/Fri Mar 11 19:54:04 2022//TOPENBSD_7_4
+/patch-src_lib_crypto_BotanEDDSA_cpp/1.2/Fri Mar 11 19:54:04 2022//TOPENBSD_7_4
+/patch-src_lib_crypto_OSSLEDDSA_cpp/1.2/Fri Mar 11 19:54:04 2022//TOPENBSD_7_4
+/patch-src_lib_test_ForkTests_cpp/1.2/Fri Mar 11 19:54:04 2022//TOPENBSD_7_4
+D

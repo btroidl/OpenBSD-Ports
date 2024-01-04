@@ -1,0 +1,5 @@
+/patch-bin_opensearch-env/1.3/Sun Oct  1 21:41:03 2023//TOPENBSD_7_4
+/patch-config_jvm_options/1.1.1.1/Sun Jun 19 08:11:09 2022//TOPENBSD_7_4
+/patch-config_opensearch_yml/1.1.1.1/Sun Jun 19 08:11:09 2022//TOPENBSD_7_4
+/patch-plugins_opensearch-security_tools_install_demo_configuration_sh/1.5/Sun Oct  1 21:41:03 2023//TOPENBSD_7_4
+D

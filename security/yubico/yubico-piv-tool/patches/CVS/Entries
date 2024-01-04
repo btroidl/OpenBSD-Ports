@@ -1,0 +1,5 @@
+/patch-common_openssl-compat_c/1.1/Thu Mar  9 12:31:05 2023//TOPENBSD_7_4
+/patch-tool_yubico-piv-tool_c/1.4/Thu Mar  9 12:31:05 2023//TOPENBSD_7_4
+/patch-ykcs11_tests_CMakeLists_txt/1.1/Thu Mar  9 12:31:05 2023//TOPENBSD_7_4
+/patch-ykcs11_utils_c/1.1/Thu Mar  9 12:31:05 2023//TOPENBSD_7_4
+D

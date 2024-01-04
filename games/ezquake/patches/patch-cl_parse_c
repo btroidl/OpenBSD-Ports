@@ -1,0 +1,41 @@
+commit df38450a75ef7492c51c6e9f3012235521a01b98
+Author: Daniel Svensson <dsvensson@gmail.com>
+Date:   Fri Oct 20 21:37:34 2023 +0200
+
+    DOWNLOAD: Harmonize download filter.
+
+see: https://github.com/QW-Group/ezquake-source/issues/857
+
+Index: cl_parse.c
+--- cl_parse.c.orig
++++ cl_parse.c
+@@ -472,25 +472,13 @@ int CL_CalcNetStatistics(
+ 
+ //=============================================================================
+ 
++qbool CL_Download_Accept(const char *filename);
++
+ // Returns true if the file exists, otherwise it attempts to start a download from the server.
+ qbool CL_CheckOrDownloadFile(char *filename)
+ {
+-	vfsfile_t *f;
+-	char *tmp;
+-
+-	if (strstr(filename, "..") || !strcmp(filename, "") || filename[0] == '/' || strchr(filename, '\\') || strchr(filename, ':') || strstr(filename, "//")) {
+-		Com_Printf("Warning: Invalid characters in filename \"%s\"\n", filename);
+-		return true;
+-	}
+-
+-	if ((tmp = strrchr(filename, '.')) && (!strcasecmp(tmp, ".dll") || !strcasecmp(tmp, ".so"))) {
+-		Com_Printf("Warning: Non-allowed file \"%s\" skipped\n", filename);
+-		return true;
+-	}
+-
+-	f = FS_OpenVFS(filename, "rb", FS_ANY);
+-	if (f) {
+-		VFS_CLOSE(f);
++	if (!CL_Download_Accept(filename))
++	{
+ 		return true;
+ 	}
+ 

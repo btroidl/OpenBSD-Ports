@@ -1,0 +1,7 @@
+/patch-cmake_OpenCVCompilerOptions_cmake/1.1/Wed Jun  8 10:09:16 2022//TOPENBSD_7_4
+/patch-cmake_OpenCVFindLibsGrfmt_cmake/1.10/Sun Jul 16 19:54:23 2023//TOPENBSD_7_4
+/patch-cmake_OpenCVPCHSupport_cmake/1.4/Fri Mar 11 19:22:56 2022//TOPENBSD_7_4
+/patch-modules_core_include_opencv2_core_utils_filesystem_private_hpp/1.2/Fri Mar 11 19:22:56 2022//TOPENBSD_7_4
+/patch-modules_core_src_system_cpp/1.17/Sun Jul 16 19:54:23 2023//TOPENBSD_7_4
+/patch-modules_core_src_utils_filesystem_cpp/1.2/Fri Mar 11 19:22:56 2022//TOPENBSD_7_4
+D

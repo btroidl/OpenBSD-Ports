@@ -1,0 +1,24 @@
+/patch-FAQ/1.3/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-Makefile_am/1.3/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-Makefile_in/1.3/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-add_file_c/1.3/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-browse_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-channel_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-config_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-config_h_in/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-configure/1.5/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-discipline_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-download_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-fast_snprintf_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-glob_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-init_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-level_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-main_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-metaserver_dsp/1.3/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-opennap_h/1.4/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-ping_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-privmsg_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-proxy-client_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-resume_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+/patch-search_c/1.2/Fri Mar 11 18:20:22 2022//TOPENBSD_7_4
+D

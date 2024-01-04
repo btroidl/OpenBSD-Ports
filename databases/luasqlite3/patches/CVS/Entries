@@ -1,0 +1,13 @@
+/patch-Makefile_in/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-configure/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_aggregate_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_function_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_order_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_simple_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_smart_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_statement_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-examples_tracing_lua/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-libluasqlite3_c/1.2/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-luasql-sqlite3_lua/1.3/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+/patch-sqlite3_lua/1.4/Fri Mar 11 18:31:22 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-Makefile/1.3/Tue Jan 31 13:34:52 2023//TOPENBSD_7_4
+/patch-printquota_c/1.3/Tue Jan 31 13:34:52 2023//TOPENBSD_7_4
+/patch-quotatool_c/1.3/Tue Jan 31 13:34:52 2023//TOPENBSD_7_4
+/patch-setquota_c/1.2/Fri Mar 11 19:58:01 2022//TOPENBSD_7_4
+D

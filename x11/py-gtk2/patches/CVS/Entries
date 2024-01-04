@@ -1,0 +1,8 @@
+/patch-examples_Makefile_in/1.10/Fri Mar 11 20:16:56 2022//TOPENBSD_7_4
+/patch-gtk_gtk-2_10_defs/1.2/Fri Mar 11 20:16:56 2022//TOPENBSD_7_4
+/patch-pango_defs/1.3/Wed Jan 25 13:15:35 2023//TOPENBSD_7_4
+/patch-pango_override/1.1/Wed Jan 25 13:15:35 2023//TOPENBSD_7_4
+/patch-pangocairo_override/1.2/Fri Mar 11 20:16:56 2022//TOPENBSD_7_4
+/patch-tests_test_actiongroup_py/1.4/Fri Mar 11 20:16:56 2022//TOPENBSD_7_4
+/sup-mips64-gtk_Makefile_in/1.2/Fri Mar 11 20:16:56 2022//TOPENBSD_7_4
+D

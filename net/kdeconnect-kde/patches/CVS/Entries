@@ -1,0 +1,5 @@
+/patch-core_backends_lan_compositeuploadjob_cpp/1.4/Sun Dec 18 09:10:51 2022//TOPENBSD_7_4
+/patch-core_backends_lan_lanlinkprovider_cpp/1.7/Fri Sep  1 09:28:59 2023//TOPENBSD_7_4
+/patch-plugins_mousepad_waylandremoteinput_cpp/1.4/Fri Sep  1 09:28:59 2023//TOPENBSD_7_4
+/patch-plugins_sftp_mounter_cpp/1.6/Sun Feb  5 14:17:33 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-common_mk/1.5/Fri Mar 11 19:22:53 2022//TOPENBSD_7_4
+/patch-lib_Makefile/1.12/Thu Mar 30 12:33:07 2023//TOPENBSD_7_4
+/patch-lib_libpm_c/1.4/Fri Mar 11 19:22:53 2022//TOPENBSD_7_4
+/patch-lib_util_Makefile/1.6/Fri Mar 11 19:22:53 2022//TOPENBSD_7_4
+D

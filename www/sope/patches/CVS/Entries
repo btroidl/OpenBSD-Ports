@@ -1,0 +1,10 @@
+/patch-configure/1.8/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-appserver_NGObjWeb_DynamicElements_decommon_h/1.2/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-appserver_NGObjWeb_GNUmakefile_preamble/1.4/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-appserver_NGObjWeb_WebDAV_GNUmakefile_preamble/1.2/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-appserver_NGObjWeb_subdirs_make/1.2/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-core_NGStreams_NGStreamCoder_m/1.2/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-mime_NGMime_NGMimeType_m/1.1/Sat Feb 25 19:51:35 2023//TOPENBSD_7_4
+/patch-sope-xml_DOM_GNUmakefile_preamble/1.4/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+/patch-sope-xml_SaxObjC_GNUmakefile_preamble/1.4/Fri Mar 11 20:11:01 2022//TOPENBSD_7_4
+D

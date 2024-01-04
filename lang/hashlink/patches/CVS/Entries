@@ -1,0 +1,8 @@
+/patch-Makefile/1.8/Thu Sep 21 01:25:59 2023//TOPENBSD_7_4
+/patch-libs_mysql_socket_c/1.2/Fri Mar 11 19:29:02 2022//TOPENBSD_7_4
+/patch-libs_uv_uv_c/1.5/Sun Dec 18 18:26:46 2022//TOPENBSD_7_4
+/patch-src_module_c/1.5/Sun Dec 18 18:26:46 2022//TOPENBSD_7_4
+/patch-src_std_socket_c/1.3/Fri Mar 11 19:29:02 2022//TOPENBSD_7_4
+/patch-src_std_string_c/1.2/Fri Mar 11 19:29:02 2022//TOPENBSD_7_4
+/patch-src_std_thread_c/1.8/Sun Sep  3 05:25:20 2023//TOPENBSD_7_4
+D

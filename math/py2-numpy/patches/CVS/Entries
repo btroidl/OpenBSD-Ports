@@ -1,0 +1,6 @@
+/patch-numpy_core_include_numpy_npy_common_h/1.2/Fri Mar 11 19:36:31 2022//TOPENBSD_7_4
+/patch-numpy_core_setup_common_py/1.2/Fri Mar 11 19:36:31 2022//TOPENBSD_7_4
+/patch-numpy_distutils_command_build_src_py/1.2/Fri Mar 11 19:36:31 2022//TOPENBSD_7_4
+/patch-numpy_distutils_fcompiler_gnu_py/1.2/Fri Mar 11 19:36:31 2022//TOPENBSD_7_4
+/patch-numpy_distutils_site_cfg/1.2/Fri Mar 11 19:36:31 2022//TOPENBSD_7_4
+D

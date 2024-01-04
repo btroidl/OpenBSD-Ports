@@ -1,0 +1,5 @@
+/patch-configure/1.2/Fri Mar 11 18:49:44 2022//TOPENBSD_7_4
+/patch-lib_libbamf-private_Makefile_in/1.2/Fri Mar 11 18:49:44 2022//TOPENBSD_7_4
+/patch-src_Makefile_in/1.2/Fri Mar 11 18:49:44 2022//TOPENBSD_7_4
+/patch-tests_bamfdaemon_Makefile_in/1.2/Fri Mar 11 18:49:44 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,10 @@
+/patch-src_Makefile_shlib/1.14/Fri Mar 11 18:31:37 2022//TOPENBSD_7_4
+/patch-src_backend_libpq_ip_c/1.4/Fri Mar 11 18:31:37 2022//TOPENBSD_7_4
+/patch-src_bin_initdb_initdb_c/1.1/Mon Sep 11 20:04:47 2023//TOPENBSD_7_4
+/patch-src_bin_scripts_vacuumdb_c/1.6/Wed Nov 16 02:59:23 2022//TOPENBSD_7_4
+/patch-src_include_storage_s_lock_h/1.10/Wed Nov 16 02:59:23 2022//TOPENBSD_7_4
+/patch-src_interfaces_ecpg_compatlib_Makefile/1.14/Fri Mar 11 18:31:37 2022//TOPENBSD_7_4
+/patch-src_interfaces_ecpg_ecpglib_Makefile/1.13/Fri Mar 11 18:31:37 2022//TOPENBSD_7_4
+/patch-src_interfaces_ecpg_pgtypeslib_Makefile/1.14/Fri Mar 11 18:31:37 2022//TOPENBSD_7_4
+/patch-src_interfaces_libpq_Makefile/1.17/Wed Nov 16 02:59:23 2022//TOPENBSD_7_4
+D

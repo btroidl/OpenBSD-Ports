@@ -1,0 +1,7 @@
+/patch-EXAMPLE_conf_def/1.1/Wed Aug 31 15:06:34 2022//TOPENBSD_7_4
+/patch-Makefile_in/1.8/Mon Mar 21 13:50:58 2022//TOPENBSD_7_4
+/patch-Makefile_rules/1.9/Wed Aug 16 14:49:03 2023//TOPENBSD_7_4
+/patch-Makefile_top/1.24/Wed Aug 16 14:49:03 2023//TOPENBSD_7_4
+/patch-agent_mibgroup_mibII_ipAddr_c/1.8/Mon Mar  7 21:36:50 2022//TOPENBSD_7_4
+/patch-perl_SNMP_Makefile_PL/1.9/Mon Mar 21 13:50:58 2022//TOPENBSD_7_4
+D

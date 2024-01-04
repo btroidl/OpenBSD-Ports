@@ -1,0 +1,16 @@
+From 29d6298d0b04cfff970b993915db71ba3f580b6d Mon Sep 17 00:00:00 2001
+From: Daiki Ueno <ueno@gnu.org>
+Date: Mon, 23 Oct 2023 09:26:57 +0900
+Subject: [PATCH 1/2] auth/rsa_psk: side-step potential side-channel
+
+Index: lib/priority.c
+--- lib/priority.c.orig
++++ lib/priority.c
+@@ -624,7 +624,6 @@ int gnutls_priority_set(gnutls_session_t session, gnut
+ 	COPY_TO_INTERNALS(no_etm);
+ 	COPY_TO_INTERNALS(no_ext_master_secret);
+ 	COPY_TO_INTERNALS(allow_key_usage_violation);
+-	COPY_TO_INTERNALS(allow_wrong_pms);
+ 	COPY_TO_INTERNALS(dumbfw);
+ 	COPY_TO_INTERNALS(dh_prime_bits);
+ 

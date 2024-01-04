@@ -1,0 +1,5 @@
+/patch-CMakeLists_txt/1.12/Thu Jun 15 07:33:44 2023//TOPENBSD_7_4
+/patch-cmake_modules_GenerateIconsUtils_cmake/1.1/Sun Feb 26 08:03:44 2023//TOPENBSD_7_4
+/patch-src_csync_ConfigureChecks_cmake/1.6/Fri Mar 11 19:46:30 2022//TOPENBSD_7_4
+/patch-src_libsync_vfs_suffix_CMakeLists_txt/1.1/Mon Aug  1 04:58:33 2022//TOPENBSD_7_4
+D

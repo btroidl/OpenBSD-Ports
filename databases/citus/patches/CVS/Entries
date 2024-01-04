@@ -1,0 +1,4 @@
+/patch-Makefile/1.3/Mon Sep 25 12:38:53 2023//TOPENBSD_7_4
+/patch-src_backend_distributed_commands_multi_copy_c/1.3/Mon Oct  3 22:12:37 2022//TOPENBSD_7_4
+/patch-src_backend_distributed_worker_worker_sql_task_protocol_c/1.2/Fri Mar 11 18:31:18 2022//TOPENBSD_7_4
+D

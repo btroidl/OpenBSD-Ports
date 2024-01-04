@@ -1,0 +1,9 @@
+/patch-CMakeLists_txt/1.12/Tue Sep 19 08:05:15 2023//TOPENBSD_7_4
+/patch-Core_AVIDump_cpp/1.1/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-Core_HLE_sceAtrac_cpp/1.1/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-Core_HLE_sceMpeg_cpp/1.1/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-Core_HW_MediaEngine_cpp/1.5/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-Core_HW_SimpleAudioDec_cpp/1.1/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-Core_HW_SimpleAudioDec_h/1.1/Sun Jun 18 21:14:58 2023//TOPENBSD_7_4
+/patch-UI_NativeApp_cpp/1.11/Sun Sep 17 08:40:29 2023//TOPENBSD_7_4
+D

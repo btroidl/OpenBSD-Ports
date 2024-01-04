@@ -1,0 +1,9 @@
+/patch-configure_in/1.2/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-liba52_bitstream_c/1.6/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-liba52_liba52_pc_in/1.2/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-libao_Makefile_am/1.2/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-libao_Makefile_in/1.4/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-libao_audio_out_c/1.2/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-libao_audio_out_oss_c/1.5/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+/patch-libao_configure_incl/1.2/Fri Mar 11 18:20:12 2022//TOPENBSD_7_4
+D

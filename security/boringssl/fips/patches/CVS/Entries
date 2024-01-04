@@ -1,0 +1,27 @@
+/patch-CMakeLists_txt/1.2/Fri May 12 15:06:32 2023//TOPENBSD_7_4
+/patch-crypto_CMakeLists_txt/1.2/Fri May 12 15:06:32 2023//TOPENBSD_7_4
+/patch-crypto_chacha_asm_chacha-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_cipher_extra_asm_aes128gcmsiv-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_cipher_extra_asm_chacha20_poly1305_x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_cpu_aarch64_openbsd_c/1.1/Fri Apr 28 17:40:33 2023//TOPENBSD_7_4
+/patch-crypto_cpu_arm_openbsd_c/1.1/Fri Apr 28 17:40:33 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_aes_asm_aesni-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_aes_asm_vpaes-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_bn_asm_rsaz-avx2_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_bn_asm_x86_64-mont5_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_bn_asm_x86_64-mont_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_ec_asm_p256-x86_64-asm_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_ec_asm_p256_beeu-x86_64-asm_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_md5_asm_md5-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_modes_asm_aesni-gcm-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_modes_asm_ghash-ssse3-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_modes_asm_ghash-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_rand_asm_rdrand-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_rand_urandom_c/1.2/Fri May 12 15:06:32 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_sha_asm_sha1-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_fipsmodule_sha_asm_sha512-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_perlasm_x86_64-xlate_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-crypto_test_asm_trampoline-x86_64_pl/1.1/Sat Jun 10 12:28:02 2023//TOPENBSD_7_4
+/patch-include_openssl_base_h/1.2/Fri May 12 15:06:32 2023//TOPENBSD_7_4
+/patch-include_openssl_thread_h/1.1/Fri Apr 28 17:40:33 2023//TOPENBSD_7_4
+D

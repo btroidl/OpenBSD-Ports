@@ -1,0 +1,20 @@
+/README.internals/1.19/Thu Aug 10 18:50:58 2023//TOPENBSD_7_4
+/apache-module.port.mk/1.12/Tue Oct 16 13:11:30 2018//TOPENBSD_7_4
+/arch-defines.mk/1.98/Wed Jun  7 13:00:33 2023//TOPENBSD_7_4
+/automake.dep/1.3/Sat Feb  3 17:08:59 2007//TOPENBSD_7_4
+/bsd.port.arch.mk/1.14/Thu Apr 16 19:33:29 2020//TOPENBSD_7_4
+/bsd.port.mk/1.1627/Wed Sep 27 21:41:16 2023//TOPENBSD_7_4
+/bsd.port.subdir.mk/1.112/Sun Feb 19 15:01:12 2023//TOPENBSD_7_4
+/compiler.port.mk/1.5/Fri Nov 17 00:24:01 2017//TOPENBSD_7_4
+/cpan.port.mk/1.25/Wed Sep 27 21:41:16 2023//TOPENBSD_7_4
+/dist-tuple.port.mk/1.14/Thu Sep 28 06:02:43 2023//TOPENBSD_7_4
+/font.port.mk/1.6/Thu Sep 14 03:51:43 2023//TOPENBSD_7_4
+/fortran.port.mk/1.17/Tue Aug 27 14:30:38 2019//TOPENBSD_7_4
+/gcc4.port.mk/1.14/Sat Apr 27 21:26:35 2019//TOPENBSD_7_4
+/gnu.port.mk/1.61/Tue May 14 14:59:56 2019//TOPENBSD_7_4
+/imake.port.mk/1.10/Thu Aug  9 17:43:00 2018//TOPENBSD_7_4
+/java.port.mk/1.1/Fri Jun 17 14:59:27 2005//TOPENBSD_7_4
+/modules.port.mk/1.17/Wed Sep  6 09:51:34 2023//TOPENBSD_7_4
+/perl.port.mk/1.36/Wed Mar 16 10:11:14 2022//TOPENBSD_7_4
+/pkgpath.mk/1.87/Tue Nov  1 10:55:54 2022//TOPENBSD_7_4
+D

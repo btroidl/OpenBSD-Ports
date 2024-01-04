@@ -1,0 +1,7 @@
+/patch-configure/1.18/Wed Aug 24 19:53:39 2022//TOPENBSD_7_4
+/patch-scripts_miscellaneous_memory_m/1.2/Wed Aug 24 19:53:39 2022//TOPENBSD_7_4
+/patch-scripts_miscellaneous_private_tar_is_bsd_m/1.1/Tue Apr 26 14:47:40 2022//TOPENBSD_7_4
+/patch-scripts_miscellaneous_tar_m/1.1/Tue Apr 26 14:47:40 2022//TOPENBSD_7_4
+/patch-scripts_miscellaneous_unpack_m/1.5/Sun Nov 13 19:13:38 2022//TOPENBSD_7_4
+/patch-scripts_pkg_private_configure_make_m/1.5/Tue Apr 26 14:47:40 2022//TOPENBSD_7_4
+D

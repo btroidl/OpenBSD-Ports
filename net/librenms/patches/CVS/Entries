@@ -1,0 +1,11 @@
+/patch-LibreNMS_Config_php/1.23/Thu Dec 29 13:00:47 2022//TOPENBSD_7_4
+/patch-LibreNMS_Exceptions_UnserializableRouteCache_php/1.1/Sat Aug 20 13:34:53 2022//TOPENBSD_7_4
+/patch-LibreNMS_Validations_Php_php/1.5/Sat Aug 20 13:34:53 2022//TOPENBSD_7_4
+/patch-LibreNMS_Validations_System_php/1.1/Sat Aug 20 13:34:53 2022//TOPENBSD_7_4
+/patch-LibreNMS___init___py/1.1/Sat Aug 20 13:34:53 2022//TOPENBSD_7_4
+/patch-LibreNMS_wrapper_py/1.2/Sun Aug 20 12:58:15 2023//TOPENBSD_7_4
+/patch-_env_example/1.6/Mon Mar  7 21:36:49 2022//TOPENBSD_7_4
+/patch-config_php_default/1.12/Mon Mar  7 21:36:49 2022//TOPENBSD_7_4
+/patch-daily_sh/1.38/Sun Aug 20 12:58:15 2023//TOPENBSD_7_4
+/patch-misc_config_definitions_json/1.30/Mon Sep 18 11:38:55 2023//TOPENBSD_7_4
+D

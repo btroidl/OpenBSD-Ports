@@ -1,0 +1,18 @@
+/patch-browser_app_profile_000-tor-browser_js/1.4.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-browser_config_mozconfigs_base-browser/1.3.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-browser_config_mozconfigs_tor-browser/1.2.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-config_makefiles_rust_mk/1.7.4.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-js_src_ctypes_libffi_src_dlmalloc_c/1.1.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-media_ffvpx_libavcodec_x86_fft_asm/1.2.4.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-security_nss_Makefile/1.6/Wed Mar  9 20:48:33 2022//TOPENBSD_7_4
+/patch-security_nss_coreconf_OpenBSD_mk/1.5/Wed Mar  9 20:48:33 2022//TOPENBSD_7_4
+/patch-security_nss_coreconf_UNIX_mk/1.3/Wed Mar  9 20:48:33 2022//TOPENBSD_7_4
+/patch-security_nss_lib_freebl_blapi_h/1.8/Wed Mar  9 20:48:33 2022//TOPENBSD_7_4
+/patch-toolkit_components_downloads_DownloadIntegration_sys_mjs/1.1.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-toolkit_components_tor-launcher_TorProcess_sys_mjs/1.1.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-toolkit_moz_configure/1.6.4.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-toolkit_xre_glxtest_glxtest_cpp/1.1.2.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-toolkit_xre_nsXREDirProvider_cpp/1.1.4.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/patch-tor-browser-linux64_Browser_fontconfig_fonts_conf/1.1/Wed Sep  6 09:42:29 2023//TOPENBSD_7_4
+/patch-xpcom_io_nsAppFileLocationProvider_cpp/1.1.4.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+D

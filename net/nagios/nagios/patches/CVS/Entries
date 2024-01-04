@@ -1,0 +1,12 @@
+/patch-base_Makefile_in/1.9/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-cgi_Makefile_in/1.9/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-configure/1.20/Thu Jun  1 07:32:26 2023//TOPENBSD_7_4
+/patch-include_config_h_in/1.11/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-include_locations_h_in/1.5/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-lib_runcmd_c/1.2/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-sample-config_cgi_cfg_in/1.8/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-sample-config_httpd_conf_in/1.5/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-sample-config_nagios_cfg_in/1.8/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-sample-config_template-object_localhost_cfg_in/1.4/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+/patch-sample-config_template-object_templates_cfg_in/1.4/Fri Mar 11 19:46:26 2022//TOPENBSD_7_4
+D

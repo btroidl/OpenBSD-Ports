@@ -1,0 +1,25 @@
+/patch-arch_arm64_boot_dts_qcom_sc8280xp-lenovo-thinkpad-x13s_dts/1.9/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_qcom_sc8280xp-pmics_dtsi/1.6/Tue Jun 27 20:39:24 2023//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_qcom_sc8280xp_dtsi/1.6/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3328-nanopi-r2s_dts/1.2/Fri Mar 11 19:57:22 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3328-rock64_dts/1.3/Mon Nov 28 15:16:20 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-firefly_dts/1.3/Mon Nov 28 15:16:20 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-nanopi4_dtsi/1.3/Mon Nov 28 15:16:20 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-pinebook-pro_dts/1.3/Mon Nov 28 15:16:20 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-rock-pi-4_dtsi/1.4/Mon Dec 12 18:46:51 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-rock960_dts/1.2/Fri Mar 11 19:57:22 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399-rockpro64_dtsi/1.3/Mon Nov 28 15:16:20 2022//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399_dtsi/1.5/Tue Feb 21 01:53:21 2023//TOPENBSD_7_4
+/patch-arch_arm64_boot_dts_rockchip_rk3399pro-rock-pi-n10_dts/1.2/Fri Mar 11 19:57:22 2022//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_nxp_imx_imx6q-cm-fx6_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-bone-common_dtsi/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-boneblack-wireless_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-bonegreen-wireless_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-evm_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-evmsk_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-icev2_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am335x-sancloud-bbe-common_dtsi/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_am33xx_dtsi/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_omap3-beagle-xm_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+/patch-arch_arm_boot_dts_ti_omap_omap3-beagle_dts/1.1/Sat Sep  2 18:00:28 2023//TOPENBSD_7_4
+D

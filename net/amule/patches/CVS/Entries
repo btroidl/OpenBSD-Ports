@@ -1,0 +1,13 @@
+/patch-acinclude_m4/1.7/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-docs_man_Makefile_in/1.5/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-m4_gettext_m4/1.3/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-m4_iconv_m4/1.2/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_Preferences_cpp/1.6/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_amule_cpp/1.9/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_libs_ec_cpp_ECSocket_cpp/1.3/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_utils_aLinkCreator_docs_Makefile_in/1.5/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_utils_cas_configfile_c/1.4/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_utils_cas_docs_Makefile_in/1.3/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_utils_wxCas_docs_Makefile_in/1.3/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+/patch-src_webserver_src_Makefile_in/1.4/Fri Mar 11 19:45:44 2022//TOPENBSD_7_4
+D

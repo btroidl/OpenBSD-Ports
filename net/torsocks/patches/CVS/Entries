@@ -1,0 +1,10 @@
+/patch-src_bin_torsocks_in/1.3/Wed Jun  1 12:35:11 2022//TOPENBSD_7_4
+/patch-src_common_compat_c/1.2/Fri Mar 11 19:47:53 2022//TOPENBSD_7_4
+/patch-src_common_compat_h/1.3/Wed Jun  1 12:35:11 2022//TOPENBSD_7_4
+/patch-src_common_defaults_h/1.2/Fri Mar 11 19:47:53 2022//TOPENBSD_7_4
+/patch-src_common_ref_h/1.2/Fri Mar 11 19:47:53 2022//TOPENBSD_7_4
+/patch-src_lib_fclose_c/1.2/Fri Mar 11 19:47:53 2022//TOPENBSD_7_4
+/patch-src_lib_syscall_c/1.3/Wed Jun  1 12:35:11 2022//TOPENBSD_7_4
+/patch-src_lib_torsocks_c/1.1/Wed Jun  1 12:35:11 2022//TOPENBSD_7_4
+/patch-src_lib_torsocks_h/1.2/Fri Mar 11 19:47:53 2022//TOPENBSD_7_4
+D

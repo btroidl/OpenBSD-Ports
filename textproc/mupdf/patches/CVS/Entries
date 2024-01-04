@@ -1,0 +1,19 @@
+/patch-Makefile/1.21/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-Makerules/1.29/Sat Sep  2 09:20:31 2023//TOPENBSD_7_4
+/patch-Makethird/1.12/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-docs_man_mupdf_1/1.6/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-platform_gl_gl-ui_c/1.2/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-platform_x11_curl_stream_c/1.5/Mon Jun 27 14:44:58 2022//TOPENBSD_7_4
+/patch-platform_x11_pdfapp_c/1.21/Thu Apr 20 11:35:36 2023//TOPENBSD_7_4
+/patch-platform_x11_x11_main_c/1.11/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-source_fitz_list-device_c/1.8/Sat Sep  2 09:20:31 2023//TOPENBSD_7_4
+/patch-source_fitz_load-jpx_c/1.12/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-source_helpers_pkcs7_pkcs7-openssl_c/1.11/Sat Sep  2 09:20:31 2023//TOPENBSD_7_4
+/patch-source_tools_mudraw_c/1.17/Sat Sep  2 09:20:31 2023//TOPENBSD_7_4
+/patch-source_tools_pdfclean_c/1.9/Mon Jun 27 14:44:58 2022//TOPENBSD_7_4
+/patch-source_tools_pdfextract_c/1.11/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-source_tools_pdfinfo_c/1.10/Tue Nov  8 12:41:05 2022//TOPENBSD_7_4
+/patch-source_tools_pdfpages_c/1.5/Mon Mar  7 21:36:57 2022//TOPENBSD_7_4
+/patch-source_tools_pdfposter_c/1.7/Sat Sep  2 09:20:31 2023//TOPENBSD_7_4
+/patch-source_tools_pdfshow_c/1.11/Thu Apr 21 09:47:28 2022//TOPENBSD_7_4
+D

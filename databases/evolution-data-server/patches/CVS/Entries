@@ -1,0 +1,5 @@
+/patch-cmake_modules_FindPhonenumber_cmake/1.2/Fri Apr 21 17:36:55 2023//TOPENBSD_7_4
+/patch-cmake_modules_SetupBuildFlags_cmake/1.6/Fri Mar 11 18:31:19 2022//TOPENBSD_7_4
+/patch-src_addressbook_libebook-contacts_CMakeLists_txt/1.1/Fri Apr 21 17:36:55 2023//TOPENBSD_7_4
+/patch-src_addressbook_libebook-contacts_e-phone-number-private_cpp/1.1/Tue Feb  7 00:24:29 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-lib_facter_config_rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/patch-lib_facter_framework_detector_os_detector_rb/1.2/Sun Jan 22 19:21:56 2023//TOPENBSD_7_4
+/patch-lib_facter_resolvers_networking_rb/1.1/Wed Apr 12 13:13:14 2023//TOPENBSD_7_4
+/patch-lib_facter_util_facts_posix_virtual_detector_rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+D

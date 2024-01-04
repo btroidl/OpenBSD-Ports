@@ -1,0 +1,13 @@
+/patch-Makefile_in/1.10/Fri Mar 11 20:09:37 2022//TOPENBSD_7_4
+/patch-config_layout/1.11/Fri Mar 11 20:09:37 2022//TOPENBSD_7_4
+/patch-configure/1.25/Mon Jan 23 14:13:40 2023//TOPENBSD_7_4
+/patch-docs_conf_httpd_conf_in/1.10/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-docs_man_htpasswd_1/1.9/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-docs_man_httpd_8/1.10/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-modules_ssl_ssl_engine_init_c/1.21/Tue Nov 15 23:14:12 2022//TOPENBSD_7_4
+/patch-modules_ssl_ssl_private_h/1.11/Tue Nov 15 23:14:12 2022//TOPENBSD_7_4
+/patch-server_mpm_unix_c/1.5/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-support_apachectl_in/1.7/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-support_apxs_in/1.7/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+/patch-support_rotatelogs_c/1.9/Fri Mar 11 20:09:38 2022//TOPENBSD_7_4
+D

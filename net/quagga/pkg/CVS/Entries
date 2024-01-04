@@ -1,0 +1,12 @@
+/DESCR/1.2/Tue Sep 27 09:45:53 2011//TOPENBSD_7_4
+/PLIST/1.24/Tue Nov  8 11:17:00 2022//TOPENBSD_7_4
+/quagga_babeld.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_bgpd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_isisd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_ospf6d.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_ospfd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_pimd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_ripd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_ripngd.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+/quagga_zebra.rc/1.3/Fri Mar 11 19:47:16 2022//TOPENBSD_7_4
+D

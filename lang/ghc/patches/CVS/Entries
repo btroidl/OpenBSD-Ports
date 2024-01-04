@@ -1,0 +1,13 @@
+/patch-compiler_GHC_Linker_Loader_hs/1.2/Fri Sep  2 18:31:16 2022//TOPENBSD_7_4
+/patch-compiler_GHC_Unit_State_hs/1.1/Sat Apr 30 02:37:59 2022//TOPENBSD_7_4
+/patch-docs_users_guide_ghc_config_py_in/1.1/Tue Feb 21 23:06:52 2023//TOPENBSD_7_4
+/patch-ghc_mk/1.19/Wed Aug 31 12:02:29 2022//TOPENBSD_7_4
+/patch-libraries_Cabal_Cabal_Distribution_Simple_Program_Strip_hs/1.5/Sat Apr 30 02:37:59 2022//TOPENBSD_7_4
+/patch-mk_install_mk_in/1.4/Fri Mar 11 19:29:00 2022//TOPENBSD_7_4
+/patch-testsuite_driver_testlib_py/1.15/Wed Aug 31 12:02:53 2022//TOPENBSD_7_4
+/patch-testsuite_mk_test_mk/1.13/Sat Apr 30 02:37:59 2022//TOPENBSD_7_4
+/patch-testsuite_tests_codeGen_should_run_all_T/1.9/Sat Apr 30 02:37:59 2022//TOPENBSD_7_4
+/patch-utils_deriveConstants_Main_hs/1.1/Wed Aug 31 12:02:53 2022//TOPENBSD_7_4
+/patch-utils_genprimopcode_Main_hs/1.1/Wed Aug 31 12:02:53 2022//TOPENBSD_7_4
+/patch-utils_iserv_ghc_mk/1.2/Fri Mar 11 19:29:00 2022//TOPENBSD_7_4
+D

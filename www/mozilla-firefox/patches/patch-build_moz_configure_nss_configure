@@ -1,0 +1,12 @@
+Index: build/moz.configure/nss.configure
+--- build/moz.configure/nss.configure.orig
++++ build/moz.configure/nss.configure
+@@ -9,7 +9,7 @@ system_lib_option("--with-system-nss", help="Use syste
+ imply_option("--with-system-nspr", True, when="--with-system-nss")
+ 
+ nss_pkg = pkg_check_modules(
+-    "NSS", "nss >= 3.95", when="--with-system-nss", config=False
++    "NSS", "nss >= 3.94", when="--with-system-nss", config=False
+ )
+ 
+ set_config("MOZ_SYSTEM_NSS", True, when="--with-system-nss")

@@ -1,0 +1,14 @@
+/patch-source_common_Makefile_in/1.18/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_common_putil_cpp/1.11/Sun Apr 16 07:07:09 2023//TOPENBSD_7_4
+/patch-source_common_unicode_uconfig_h/1.4/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_common_unicode_umachine_h/1.4/Sun Apr 16 07:07:09 2023//TOPENBSD_7_4
+/patch-source_config_icu-config-bottom/1.12/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_config_mh-bsd-gcc/1.11/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_i18n_Makefile_in/1.11/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_i18n_vtzone_cpp/1.1/Thu Jul 13 07:59:37 2023//TOPENBSD_7_4
+/patch-source_io_Makefile_in/1.9/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_layoutex_Makefile_in/1.9/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_stubdata_Makefile_in/1.14/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_tools_ctestfw_Makefile_in/1.6/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+/patch-source_tools_toolutil_Makefile_in/1.9/Fri Mar 11 20:02:36 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-CMakeLists_txt/1.11/Thu Jul 27 12:37:01 2023//TOPENBSD_7_4
+/patch-doc_CMakeLists_txt/1.13/Sun Jul 23 20:08:13 2023//TOPENBSD_7_4
+/patch-src_plugins_lua_CMakeLists_txt/1.5/Sun Jul 23 20:08:13 2023//TOPENBSD_7_4
+/patch-tests_CMakeLists_txt/1.14/Sun Jul 23 20:08:13 2023//TOPENBSD_7_4
+D

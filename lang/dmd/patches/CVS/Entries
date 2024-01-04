@@ -1,0 +1,6 @@
+/patch-dmd-bootstrap_openbsd_bin64_dmd_conf/1.2/Mon Feb 13 00:52:59 2023//TOPENBSD_7_4
+/patch-dmd_compiler_src_dmd_link_d/1.1/Mon Jul 10 13:27:33 2023//TOPENBSD_7_4
+/patch-dmd_druntime_posix_mak/1.1/Mon Feb 13 00:52:59 2023//TOPENBSD_7_4
+/patch-dmd_posix_mak/1.2/Mon Feb 13 00:52:59 2023//TOPENBSD_7_4
+/patch-phobos_posix_mak/1.2/Mon Feb 13 00:52:59 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,7 @@
+/patch-configure/1.7/Sun Jun 18 11:31:39 2023//TOPENBSD_7_4
+/patch-libntfs-3g_Makefile_in/1.7/Sun Jun 18 11:31:39 2023//TOPENBSD_7_4
+/patch-libntfs-3g_mft_c/1.4/Thu Jun 23 13:47:09 2022//TOPENBSD_7_4
+/patch-libntfs-3g_security_c/1.3/Thu Jun 23 13:47:09 2022//TOPENBSD_7_4
+/patch-ntfsprogs_ntfsclone_c/1.7/Mon Feb 13 13:31:21 2023//TOPENBSD_7_4
+/patch-src_Makefile_in/1.9/Sun Jun 18 11:31:39 2023//TOPENBSD_7_4
+D

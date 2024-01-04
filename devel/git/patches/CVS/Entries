@@ -1,0 +1,5 @@
+/patch-builtin_gc_c/1.13/Tue Aug 22 07:29:14 2023//TOPENBSD_7_4
+/patch-config_mak_uname/1.19/Tue Mar 14 09:46:22 2023//TOPENBSD_7_4
+/patch-gitweb_gitweb_perl/1.41/Tue Oct  4 19:32:54 2022//TOPENBSD_7_4
+/patch-thread-utils_c/1.2/Fri Mar 11 18:50:06 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,5 @@
+/patch-generate_unix_Makefile_config/1.11/Thu Sep  7 10:55:22 2023//TOPENBSD_7_4
+/patch-generate_unix_Makefile_rules/1.2/Fri Mar 11 18:49:30 2022//TOPENBSD_7_4
+/patch-generate_unix_acpiexec_Makefile/1.15/Thu Sep  7 10:55:22 2023//TOPENBSD_7_4
+/patch-source_include_platform_aclinux_h/1.9/Thu Sep  7 10:55:22 2023//TOPENBSD_7_4
+D

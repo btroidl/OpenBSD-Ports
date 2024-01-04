@@ -1,0 +1,6 @@
+/patch-Makefile/1.1/Mon Apr 24 22:47:05 2023//TOPENBSD_7_4
+/patch-src_asm_main_c/1.7/Mon Apr 24 22:47:05 2023//TOPENBSD_7_4
+/patch-src_fix_main_c/1.4/Mon Apr 24 22:47:05 2023//TOPENBSD_7_4
+/patch-src_gfx_main_cpp/1.1/Mon Apr 24 22:47:05 2023//TOPENBSD_7_4
+/patch-src_link_main_c/1.5/Mon Apr 24 22:47:05 2023//TOPENBSD_7_4
+D

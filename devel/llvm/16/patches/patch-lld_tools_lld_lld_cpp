@@ -1,0 +1,18 @@
+Index: lld/tools/lld/lld.cpp
+--- lld/tools/lld/lld.cpp.orig
++++ lld/tools/lld/lld.cpp
+@@ -155,10 +155,14 @@ static int lldMain(int argc, const char **argv, llvm::
+       return elf::link;
+     else if (f == WinLink)
+       return coff::link;
++#ifdef LLD_ENABLE_MACHO
+     else if (f == Darwin)
+       return macho::link;
++#endif
++#ifdef LLD_ENABLE_WASM
+     else if (f == Wasm)
+       return lld::wasm::link;
++#endif
+     else
+       die("lld is a generic driver.\n"
+           "Invoke ld.lld (Unix), ld64.lld (macOS), lld-link (Windows), wasm-ld"

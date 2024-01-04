@@ -1,0 +1,12 @@
+/patch-configure/1.2/Mon May 24 22:31:25 2010//TOPENBSD_7_4
+/patch-src_action_cpp/1.3/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_draw_cpp/1.3/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_frame_h/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_inputbar_cpp/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_kernel_cpp/1.3/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_kernel_h/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_logger_cpp/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_main_cpp/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_util_cpp/1.4/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+/patch-src_wmiremote_cpp/1.2/Fri Mar 11 20:17:36 2022//TOPENBSD_7_4
+D

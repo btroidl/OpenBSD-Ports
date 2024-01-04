@@ -1,0 +1,6 @@
+/patch-fpm_toml/1.1.1.1/Tue Nov  8 16:12:02 2022//TOPENBSD_7_4
+/patch-src_fpm_command_line_f90/1.1.1.1/Tue Nov  8 16:12:02 2022//TOPENBSD_7_4
+/patch-src_fpm_compiler_f90/1.1.1.1/Tue Nov  8 16:12:02 2022//TOPENBSD_7_4
+/patch-src_fpm_environment_f90/1.1.1.1/Tue Nov  8 16:12:02 2022//TOPENBSD_7_4
+/patch-src_fpm_manifest_profiles_f90/1.1.1.1/Tue Nov  8 16:12:02 2022//TOPENBSD_7_4
+D

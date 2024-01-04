@@ -1,0 +1,35 @@
+/Makefile/1.14/Fri Jul 28 09:41:11 2023//TOPENBSD_7_4
+/Makefile.inc/1.8/Wed Sep 27 20:37:21 2023//TOPENBSD_7_4
+/Makefile.version/1.10/Fri Jul 28 08:44:09 2023//TOPENBSD_7_4
+/qt6.port.mk/1.7/Sat Sep  2 08:25:20 2023//TOPENBSD_7_4
+D/qt3d////
+D/qt5compat////
+D/qtbase////
+D/qtcharts////
+D/qtconnectivity////
+D/qtdatavis3d////
+D/qtdeclarative////
+D/qtgrpc////
+D/qthttpserver////
+D/qtimageformats////
+D/qtlanguageserver////
+D/qtlottie////
+D/qtmultimedia////
+D/qtnetworkauth////
+D/qtpositioning////
+D/qtquick3d////
+D/qtquick3dphysics////
+D/qtquickeffectmaker////
+D/qtquicktimeline////
+D/qtremoteobjects////
+D/qtscxml////
+D/qtsensors////
+D/qtserialbus////
+D/qtserialport////
+D/qtshadertools////
+D/qtsvg////
+D/qttools////
+D/qttranslations////
+D/qtvirtualkeyboard////
+D/qtwayland////
+D/qtwebsockets////

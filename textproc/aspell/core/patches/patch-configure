@@ -1,0 +1,21 @@
+Index: configure
+--- configure.orig
++++ configure
+@@ -3308,7 +3308,7 @@ fi
+ 
+ if test "$pkgdatadir" = "undef"
+ then
+-  pkgdatadir=\${libdir}/aspell-0.60
++  pkgdatadir=\${libdir}/aspell
+ fi
+ 
+ 
+@@ -3329,7 +3329,7 @@ fi
+ 
+ if test "$pkglibdir" = "undef"
+ then
+-  pkglibdir=\${libdir}/aspell-0.60
++  pkglibdir=\${libdir}/aspell
+ fi
+ 
+ 

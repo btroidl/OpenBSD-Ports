@@ -1,0 +1,21 @@
+/ec2_metadata.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/ec2_userdata.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/facterversion.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/is_virtual.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/kernel.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/kernelrelease.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/mountpoints.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/path.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/ssh.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/sshalgorithmkey.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/sshfp_algorithm.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/timezone.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/virtual.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+D/augeas////
+D/dmi////
+D/identity////
+D/networking////
+D/os////
+D/processors////
+D/ruby////
+D/system_uptime////

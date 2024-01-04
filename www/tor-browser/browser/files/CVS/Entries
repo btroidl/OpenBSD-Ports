@@ -1,0 +1,22 @@
+/all-openbsd.js/1.5/Fri Oct 23 07:04:09 2020//TOPENBSD_7_4
+/bookmarks.html/1.1.1.1/Sun Nov 13 21:15:43 2016//TOPENBSD_7_4
+/configure/1.2/Sun Aug 27 08:54:08 2017//TOPENBSD_7_4
+/pledge.content/1.3/Thu Oct 27 17:37:13 2022//TOPENBSD_7_4
+/pledge.gpu/1.2/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/pledge.main/1.4/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/pledge.rdd/1.2/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/pledge.socket/1.2/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/pledge.utility/1.1.6.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/pledge.utility-audioDecoder/1.1.6.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/tor-browser/1.1/Mon Apr 13 16:25:42 2020//TOPENBSD_7_4
+/tor-browser.cfg/1.2/Wed Sep  6 09:42:29 2023//TOPENBSD_7_4
+/tor-browser.desktop/1.2/Tue May  5 20:12:20 2020//TOPENBSD_7_4
+/torrc-defaults/1.2/Mon Jan 16 18:19:20 2023//TOPENBSD_7_4
+/unveil.content/1.10/Wed Sep 13 07:39:21 2023//TOPENBSD_7_4
+/unveil.gpu/1.8/Wed Sep 13 07:39:21 2023//TOPENBSD_7_4
+/unveil.main/1.11/Wed Sep 13 07:39:21 2023//TOPENBSD_7_4
+/unveil.rdd/1.2/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/unveil.socket/1.2/Wed Mar  9 20:48:32 2022//TOPENBSD_7_4
+/unveil.utility/1.1.6.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+/unveil.utility-audioDecoder/1.1.6.1/Sat Oct 21 11:55:51 2023//TOPENBSD_7_4
+D

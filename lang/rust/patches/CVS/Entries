@@ -1,0 +1,17 @@
+/patch-compiler_rustc_mir_transform_src_abort_unwinding_calls_rs/1.7/Wed Jun  7 15:58:13 2023//TOPENBSD_7_4
+/patch-compiler_rustc_session_src_options_rs/1.5/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-compiler_rustc_target_src_spec_i686_unknown_openbsd_rs/1.10/Fri Jan 20 10:32:13 2023//TOPENBSD_7_4
+/patch-library_std_src_sys_unix_os_rs/1.14/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-src_bootstrap_bin_rustc_rs/1.22/Fri Jul 14 05:03:09 2023//TOPENBSD_7_4
+/patch-src_bootstrap_bootstrap_py/1.33/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-src_bootstrap_lib_rs/1.54/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-src_bootstrap_test_rs/1.38/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-src_etc_rust-gdb/1.11/Wed Jun  7 15:58:13 2023//TOPENBSD_7_4
+/patch-src_llvm-project_llvm_cmake_modules_GetLibraryName_cmake/1.1/Mon Feb 13 10:24:01 2023//TOPENBSD_7_4
+/patch-src_llvm-project_llvm_tools_llvm-shlib_CMakeLists_txt/1.2/Wed Jun  7 15:58:13 2023//TOPENBSD_7_4
+/patch-src_tools_cargo_crates_cargo-test-support_src_paths_rs/1.8/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-tests_ui_sse2_rs/1.1/Wed Mar 15 05:49:47 2023//TOPENBSD_7_4
+/patch-vendor_libgit2-sys_build_rs/1.6/Fri Jul 14 05:03:09 2023//TOPENBSD_7_4
+/patch-vendor_openssl-sys_build_main_rs/1.12/Sat Aug 26 12:56:48 2023//TOPENBSD_7_4
+/patch-vendor_psm_src_arch_x86_64_s/1.1/Thu Jun  8 17:32:59 2023//TOPENBSD_7_4
+D

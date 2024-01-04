@@ -1,0 +1,13 @@
+/patch-Config/1.2/Fri Mar 11 18:20:16 2022//TOPENBSD_7_4
+/patch-Imakefile/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-buildindex_c/1.2/Fri Mar 11 18:20:16 2022//TOPENBSD_7_4
+/patch-cddb_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-cdinfo_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-cdrom_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-database_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-include_wm_config_h/1.2/Fri Mar 11 18:20:16 2022//TOPENBSD_7_4
+/patch-index_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-plat_openbsd_c/1.4/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-scsi_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+/patch-wm_helpers_c/1.3/Tue Jan 24 18:12:41 2023//TOPENBSD_7_4
+D

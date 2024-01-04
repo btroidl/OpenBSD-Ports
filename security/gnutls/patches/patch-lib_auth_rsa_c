@@ -1,0 +1,17 @@
+From 29d6298d0b04cfff970b993915db71ba3f580b6d Mon Sep 17 00:00:00 2001
+From: Daiki Ueno <ueno@gnu.org>
+Date: Mon, 23 Oct 2023 09:26:57 +0900
+Subject: [PATCH 1/2] auth/rsa_psk: side-step potential side-channel
+
+Index: lib/auth/rsa.c
+--- lib/auth/rsa.c.orig
++++ lib/auth/rsa.c
+@@ -206,7 +206,7 @@ static int proc_rsa_client_kx(gnutls_session_t session
+ 				     session->key.key.size);
+ 	/* After this point, any conditional on failure that cause differences
+ 	 * in execution may create a timing or cache access pattern side
+-	 * channel that can be used as an oracle, so treat very carefully */
++	 * channel that can be used as an oracle, so tread carefully */
+ 
+ 	/* Error handling logic:
+ 	 * In case decryption fails then don't inform the peer. Just use the

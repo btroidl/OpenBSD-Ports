@@ -1,0 +1,5 @@
+/patch-CMakeLists_txt/1.5/Sun Apr  9 06:17:17 2023//TOPENBSD_7_4
+/patch-aom_ports_arm_cpudetect_c/1.6/Mon May 29 17:52:01 2023//TOPENBSD_7_4
+/patch-aom_ports_ppc_cpudetect_c/1.3/Fri Mar 11 19:39:15 2022//TOPENBSD_7_4
+/patch-build_cmake_aom_configure_cmake/1.10/Sun Apr  9 06:17:17 2023//TOPENBSD_7_4
+D

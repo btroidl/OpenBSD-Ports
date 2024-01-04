@@ -1,0 +1,15 @@
+/patch-Makefile_in/1.2/Thu Oct  6 15:35:12 2022//TOPENBSD_7_4
+/patch-erts_emulator_Makefile_in/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_etc_common_ct_run_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_etc_common_dialyzer_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_etc_common_erlc_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_etc_common_escript_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_etc_common_typer_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-erts_lib_src_Makefile_in/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-lib_crypto_c_src_otp_test_engine_c/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-lib_dialyzer_src_dialyzer_plt_erl/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+/patch-lib_os_mon_c_src_cpu_sup_c/1.1/Wed May 17 13:39:46 2023//TOPENBSD_7_4
+/patch-lib_os_mon_src_cpu_sup_erl/1.1/Wed May 17 13:39:46 2023//TOPENBSD_7_4
+/patch-lib_os_mon_test_cpu_sup_SUITE_erl/1.1/Wed May 17 13:39:46 2023//TOPENBSD_7_4
+/patch-make_install_bin/1.1/Tue Jul 12 20:45:16 2022//TOPENBSD_7_4
+D

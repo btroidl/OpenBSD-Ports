@@ -1,0 +1,8 @@
+/patch-sysdep_bsd_setkey_h/1.3/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-sysdep_bsd_sysio_h/1.3/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-sysdep_unix_io_c/1.3/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-sysdep_unix_krt_h/1.2/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-sysdep_unix_random_c/1.2/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-tools_Makefile_in/1.2/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+/patch-tools_Rules_in/1.3/Fri Mar 11 19:45:47 2022//TOPENBSD_7_4
+D

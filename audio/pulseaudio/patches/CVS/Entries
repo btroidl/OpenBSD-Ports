@@ -1,0 +1,12 @@
+/patch-libpulse-mainloop-glib_pc_in/1.5/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-libpulse-simple_pc_in/1.5/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-libpulse_pc_in/1.5/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-meson_build/1.3/Sat Jun  4 22:13:48 2022//TOPENBSD_7_4
+/patch-src_daemon_caps_c/1.5/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-src_daemon_meson_build/1.3/Sat Jun  4 22:13:48 2022//TOPENBSD_7_4
+/patch-src_daemon_pulseaudio-system_conf/1.4/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-src_modules_meson_build/1.3/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-src_modules_module-detect_c/1.14/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-src_pulse_util_c/1.12/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+/patch-src_pulsecore_core-util_c/1.7/Fri Mar 11 18:20:27 2022//TOPENBSD_7_4
+D

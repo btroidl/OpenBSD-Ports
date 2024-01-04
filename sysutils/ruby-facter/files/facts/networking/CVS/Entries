@@ -1,0 +1,16 @@
+/dhcp.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/domain.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/fqdn.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/hostname.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/interfaces.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/ip.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/ip6.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/mac.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/mtu.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/netmask.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/netmask6.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/network.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/network6.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/primary.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+/scope6.rb/1.1/Fri Jan 20 20:36:58 2023//TOPENBSD_7_4
+D

@@ -1,0 +1,10 @@
+/patch-Makefile/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-cutils_h/1.2/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-libbf_h/1.2/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-qjs_c/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-qjsc_c/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-quickjs-libc_c/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-quickjs_c/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-tests_test_builtin_js/1.3/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+/patch-tests_test_std_js/1.2/Fri Mar 11 19:29:13 2022//TOPENBSD_7_4
+D

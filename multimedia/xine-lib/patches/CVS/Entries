@@ -1,0 +1,5 @@
+/patch-configure_ac/1.25/Tue Apr  4 09:06:45 2023//TOPENBSD_7_4
+/patch-src_post_Makefile_in/1.4/Tue Apr  4 09:06:45 2023//TOPENBSD_7_4
+/patch-src_xine-utils_memcpy_c/1.8/Fri Mar 11 19:39:29 2022//TOPENBSD_7_4
+/patch-src_xine-utils_utils_c/1.11/Tue Apr  4 09:06:45 2023//TOPENBSD_7_4
+D

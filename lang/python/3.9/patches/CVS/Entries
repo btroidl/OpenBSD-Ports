@@ -1,0 +1,7 @@
+/patch-Modules__hashopenssl_c/1.4/Fri Mar 11 19:29:12 2022//TOPENBSD_7_4
+/patch-Modules__posixsubprocess_c/1.1/Wed Jun 22 05:12:22 2022//TOPENBSD_7_4
+/patch-Modules__ssl_c/1.4/Fri Mar 11 19:29:12 2022//TOPENBSD_7_4
+/patch-Modules_posixmodule_c/1.3/Fri Oct 14 15:12:13 2022//TOPENBSD_7_4
+/patch-configure_ac/1.10/Wed Jul 27 06:20:10 2022//TOPENBSD_7_4
+/patch-setup_py/1.9/Mon Aug 29 12:23:42 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,9 @@
+/patch-Makefile/1.5/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-graph_c/1.2/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-parse_y/1.3/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-pf_c/1.3/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-pfstat_8/1.3/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-pfstat_c/1.2/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-pfstat_conf_example/1.2/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+/patch-pfstatd_pfstatd_8/1.2/Fri Mar 11 19:46:54 2022//TOPENBSD_7_4
+D

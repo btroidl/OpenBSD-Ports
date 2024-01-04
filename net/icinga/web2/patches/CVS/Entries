@@ -1,0 +1,7 @@
+/patch-bin_icingacli/1.1/Fri Jan 27 13:55:52 2023//TOPENBSD_7_4
+/patch-library_Icinga_Application_ApplicationBootstrap_php/1.8/Mon Sep 25 17:21:24 2023//TOPENBSD_7_4
+/patch-library_Icinga_Application_Modules_Manager_php/1.6/Fri Jul  1 07:02:37 2022//TOPENBSD_7_4
+/patch-library_Icinga_Application_Platform_php/1.2/Mon Mar  7 21:36:48 2022//TOPENBSD_7_4
+/patch-modules_setup_application_clicommands_ConfigCommand_php/1.4/Mon Sep 25 17:21:24 2023//TOPENBSD_7_4
+/patch-modules_setup_application_views_scripts_form_setup-welcome_phtml/1.7/Fri Jan 27 13:55:52 2023//TOPENBSD_7_4
+D

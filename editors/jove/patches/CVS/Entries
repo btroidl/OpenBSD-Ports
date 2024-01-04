@@ -1,0 +1,9 @@
+/patch-Makefile/1.4/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-insert_c/1.2/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-io_c/1.4/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-io_h/1.2/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-recover_c/1.2/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-sysdep_h/1.3/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-util_c/1.2/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+/patch-util_h/1.2/Fri Mar 11 18:58:30 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,15 @@
+/patch-CMakeLists_txt/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-libmpcdec_CMakeLists_txt/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-libmpcdec_requant_h/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpc2sv8_CMakeLists_txt/1.3/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcchap_CMakeLists_txt/1.3/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcchap_mpcchap_c/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpccut_CMakeLists_txt/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcdec_CMakeLists_txt/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcenc_CMakeLists_txt/1.3/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcenc_keyboard_c/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcgain_CMakeLists_txt/1.3/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcgain_gain_analysis_c/1.3/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-mpcgain_mpcgain_c/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+/patch-wavcmp_CMakeLists_txt/1.2/Fri Mar 11 18:20:20 2022//TOPENBSD_7_4
+D

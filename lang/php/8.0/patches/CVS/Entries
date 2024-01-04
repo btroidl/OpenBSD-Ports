@@ -1,0 +1,19 @@
+/patch-build_php_m4/1.5/Thu Mar 10 11:04:01 2022//TOPENBSD_7_4
+/patch-configure_ac/1.6/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-ext_gd_gd_c/1.2/Sat Oct 29 09:41:00 2022//TOPENBSD_7_4
+/patch-ext_imap_config_m4/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-ext_imap_php_imap_c/1.4/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-ext_mysqlnd_config9_m4/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-ext_openssl_openssl_c/1.6/Sun Nov 27 10:08:01 2022//TOPENBSD_7_4
+/patch-main_php_h/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-main_php_ini_c/1.4/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-php_ini-development/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-php_ini-production/1.3/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-sapi_cgi_cgi_main_c/1.3/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-sapi_fpm_fpm_fpm_atomic_h/1.4/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-sapi_fpm_fpm_fpm_children_c/1.4/Sat Oct 29 09:41:00 2022//TOPENBSD_7_4
+/patch-sapi_fpm_www_conf_in/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-scripts_Makefile_frag/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-scripts_php-config_in/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+/patch-scripts_phpize_in/1.2/Mon Mar  7 21:36:44 2022//TOPENBSD_7_4
+D

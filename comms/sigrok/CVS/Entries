@@ -1,0 +1,9 @@
+/Makefile/1.2/Fri Mar 11 18:26:31 2022//TOPENBSD_7_4
+/Makefile.inc/1.4/Wed Sep 20 06:52:55 2023//TOPENBSD_7_4
+D/libserialport////
+D/libsigrok////
+D/libsigrokdecode////
+D/pulseview////
+D/sigrok-cli////
+D/sigrok-dumps////
+D/sigrok-firmware-fx2lafw////

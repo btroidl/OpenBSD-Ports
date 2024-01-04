@@ -1,0 +1,47 @@
+Fix for ghostscript 10.02.1 (finddevice removed) by backporting
+https://gitlab.com/lilypond/lilypond/-/merge_requests/2160/diffs?commit_id=3d1a7fa40fae01c40c60344a09d0bcf01896557a
+
+Index: scm/backend-library.scm
+--- scm/backend-library.scm.orig
++++ scm/backend-library.scm
+@@ -115,10 +115,16 @@
+                    "/CompatibilityLevel 1.4"
+                    (if (not is-eps)
+                        (ly:format "/PageSize [~$ ~$]" paper-width paper-height))
+-                   "(pdfwrite) finddevice putdeviceprops pop"
+-                   ;; `setdevice` does not set some defaults. So we use
+-                   ;; `selectdevide` instead.
+-                   "(pdfwrite) selectdevice"
++                   "/OutputDevice /pdfwrite >> setpagedevice"
++                   ;; `setpagedevice` does not set some defaults, creating
++                   ;; larger output files than necessary.  To fix this we use
++                   ;; the undocumented, internal `.setdefaultscreen` procedure
++                   ;; (tested with gs 10.02.1).
++                   "/.setdefaultscreen where {"
++                   "pop .setdefaultscreen"
++                   "} {"
++                   "(Warning: .setdefaultscreen not available) print"
++                   "} ifelse"
+                    ;; from Resource/Init/gs_pdfwr.ps; needed here because we
+                    ;; do not have the pdfwrite device initially (-dNODISPLAY).
+                    "newpath fill"
+@@ -136,10 +142,15 @@
+           (ly:gs-api (gs-cmd-args is-eps #f)
+                      (string-join
+                       (list
+-                       (ly:format "mark /OutputFile (~a)" flush-name)
+-                       "(pdfwrite) finddevice putdeviceprops pop"
+-                       ;; see above
+-                       "(pdfwrite) selectdevice"
++                       "<<"
++                       (ly:format "/OutputFile (~a)" flush-name)
++                       "/OutputDevice /pdfwrite >> setpagedevice"
++                        ;; see above
++                       "/.setdefaultscreen where {"
++                       "pop .setdefaultscreen"
++                       "} {"
++                       "(Warning: .setdefaultscreen not available) print"
++                       "} ifelse"
+                        ;; see above
+                        "newpath fill")
+                       " "))

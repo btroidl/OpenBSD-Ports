@@ -1,0 +1,9 @@
+/patch-Makefile_bsd/1.5/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-defaults_make/1.6/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-egg-compile_scm/1.1/Sat Nov 12 10:08:15 2022//TOPENBSD_7_4
+/patch-eval_scm/1.7/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-rules_make/1.6/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-tests_programs-path_scm/1.2/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-tests_runbench_sh/1.2/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+/patch-tests_runtests_sh/1.2/Fri Mar 11 19:28:52 2022//TOPENBSD_7_4
+D

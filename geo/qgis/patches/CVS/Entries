@@ -1,0 +1,5 @@
+/patch-CMakeLists_txt/1.24/Tue Jun 21 13:45:25 2022//TOPENBSD_7_4
+/patch-src_core_raster_qgsexiftools_cpp/1.1/Tue Jul 11 10:51:35 2023//TOPENBSD_7_4
+/patch-src_providers_mdal_CMakeLists_txt/1.8/Fri Mar 11 19:06:18 2022//TOPENBSD_7_4
+/patch-src_server_CMakeLists_txt/1.23/Sun Mar  5 07:20:25 2023//TOPENBSD_7_4
+D

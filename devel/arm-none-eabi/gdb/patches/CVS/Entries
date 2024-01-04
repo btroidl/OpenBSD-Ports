@@ -1,0 +1,9 @@
+/patch-bfd_doc_Makefile_in/1.3/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-gdb_doc_Makefile_in/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-libiberty_Makefile_in/1.3/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-sim_arm_armemu_c/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-sim_arm_arminit_c/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-sim_arm_maverick_c/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-sim_arm_maverick_h/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+/patch-sim_arm_wrapper_c/1.2/Fri Mar 11 18:49:35 2022//TOPENBSD_7_4
+D

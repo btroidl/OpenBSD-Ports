@@ -1,0 +1,6 @@
+/patch-Makefile/1.7/Fri Mar 11 19:48:08 2022//TOPENBSD_7_4
+/patch-builddefs_h/1.4/Fri Mar 11 19:48:08 2022//TOPENBSD_7_4
+/patch-ssl_c/1.2/Fri Mar 11 19:48:08 2022//TOPENBSD_7_4
+/patch-sysdeputil_c/1.7/Fri Mar 11 19:48:08 2022//TOPENBSD_7_4
+/patch-vsftpd_conf/1.11/Fri Mar 11 19:48:08 2022//TOPENBSD_7_4
+D

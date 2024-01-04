@@ -1,0 +1,9 @@
+/patch-data_gnome-shell-dbus-interfaces_gresource_xml/1.6/Sun Apr 23 15:24:10 2023//TOPENBSD_7_4
+/patch-js_misc_loginManager_js/1.19/Thu Nov 10 15:10:16 2022//TOPENBSD_7_4
+/patch-js_ui_endSessionDialog_js/1.5/Wed Apr 26 08:06:30 2023//TOPENBSD_7_4
+/patch-js_ui_status_keyboard_js/1.9/Mon Nov  7 11:14:38 2022//TOPENBSD_7_4
+/patch-meson_build/1.2/Sun Apr 23 16:08:27 2023//TOPENBSD_7_4
+/patch-src_main_c/1.14/Fri Sep  1 07:21:16 2023//TOPENBSD_7_4
+/patch-subprojects_extensions-tool_man_meson_build/1.2/Fri Mar 11 20:15:47 2022//TOPENBSD_7_4
+/patch-subprojects_extensions-tool_src_meson_build/1.2/Wed Apr 26 08:06:30 2023//TOPENBSD_7_4
+D

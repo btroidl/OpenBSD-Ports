@@ -1,0 +1,17 @@
+/patch-common_mk/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-config_mk_in/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_abyss++_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_abyss_src_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_abyss_src_http_c/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_curl_transport_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_expat_xmlparse_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_expat_xmlparse_xmlparse_c/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_expat_xmltok_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_libutil++_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_libutil_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-lib_libutil_asprintf_c/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-src_Makefile/1.5/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-src_cpp_Makefile/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-test_cpp_server_abyss_cpp/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+/patch-unix-common_mk/1.2/Fri Mar 11 19:48:15 2022//TOPENBSD_7_4
+D

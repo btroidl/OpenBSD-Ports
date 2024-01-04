@@ -1,0 +1,10 @@
+/patch-plugins_impex_jpeg_kis_jpeg_converter_cc/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_impex_tiff_kis_tiff_export_cc/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_impex_tiff_kis_tiff_import_cc/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_common_KisExiv2IODevice_cpp/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_common_KisExiv2IODevice_h/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_common_kis_exiv2_common_h/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_exif_kis_exif_io_cpp/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_iptc_kis_iptc_io_cpp/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+/patch-plugins_metadata_xmp_kis_xmp_io_cpp/1.2/Fri Jul 28 09:02:25 2023//TOPENBSD_7_4
+D

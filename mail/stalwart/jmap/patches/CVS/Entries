@@ -1,0 +1,14 @@
+/patch-Cargo_toml/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-components_jmap_mail_Cargo_toml/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-components_store_Cargo_toml/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-components_store_rocksdb_src_lib_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-components_store_src_blob_local_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_librocksdb-sys-0_8_0+7_4_4_build_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_Cargo_toml/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_src_encoders_base64_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_src_encoders_encode_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_src_headers_text_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_src_lib_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-modcargo-crates_mail-builder-0_2_3_src_mime_rs/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+/patch-resources_config_config_yml/1.1.1.1/Thu Nov  3 14:21:13 2022//TOPENBSD_7_4
+D

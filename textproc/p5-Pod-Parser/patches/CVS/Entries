@@ -1,0 +1,5 @@
+/patch-Makefile_PL/1.4/Fri Sep  1 22:59:20 2023//TOPENBSD_7_4
+/patch-lib_Pod_PlainText_pm/1.2/Fri Mar 11 20:02:57 2022//TOPENBSD_7_4
+/patch-t_pod_find_t/1.2/Thu Mar 30 20:08:56 2023//TOPENBSD_7_4
+/patch-t_unbalanced_t/1.2/Fri Mar 11 20:02:57 2022//TOPENBSD_7_4
+D

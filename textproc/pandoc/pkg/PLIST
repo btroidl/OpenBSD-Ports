@@ -1,0 +1,2 @@
+@bin bin/pandoc
+@man man/man1/pandoc.1

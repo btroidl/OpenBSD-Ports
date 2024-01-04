@@ -1,0 +1,16 @@
+/patch-chatcleaner_proto/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-pokerth_game_pro/1.6/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-pokerth_pro/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-pokerth_proto/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-pokerth_server_pro/1.7/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_core_common_crypthelper_cpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_gui_qt_gametable_gametableimpl_cpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_net_common_clientthread_cpp/1.4/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_net_common_netpacket_cpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_net_common_serveracceptwebhelper_cpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_net_serveraccepthelper_h/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_third_party_websocketpp_websocketpp_transport_asio_connection_hpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_third_party_websocketpp_websocketpp_transport_asio_endpoint_hpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_third_party_websocketpp_websocketpp_transport_asio_security_none_hpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+/patch-src_third_party_websocketpp_websocketpp_transport_asio_security_tls_hpp/1.2/Fri Mar 11 19:04:49 2022//TOPENBSD_7_4
+D

@@ -1,0 +1,4 @@
+/patch-CMakeLists_txt/1.2/Sun Apr 30 19:39:39 2023//TOPENBSD_7_4
+/patch-core_deps_VulkanMemoryAllocator_include_vk_mem_alloc_h/1.1.1.1/Tue Apr 25 19:31:43 2023//TOPENBSD_7_4
+/patch-core_rend_vulkan_compiler_cpp/1.1/Sun Apr 30 19:39:39 2023//TOPENBSD_7_4
+D

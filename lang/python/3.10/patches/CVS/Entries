@@ -1,0 +1,5 @@
+/patch-Modules__hashopenssl_c/1.6/Mon May 15 10:45:58 2023//TOPENBSD_7_4
+/patch-Python_fileutils_c/1.1/Wed Jun 22 05:12:22 2022//TOPENBSD_7_4
+/patch-configure_ac/1.5/Wed Jul 27 06:20:10 2022//TOPENBSD_7_4
+/patch-setup_py/1.8/Mon Feb 27 15:09:01 2023//TOPENBSD_7_4
+D

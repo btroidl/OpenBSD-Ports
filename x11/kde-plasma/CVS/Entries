@@ -1,0 +1,37 @@
+/Makefile/1.6/Thu Sep  7 09:41:50 2023//TOPENBSD_7_4
+/Makefile.inc/1.41/Wed Sep 27 20:37:15 2023//TOPENBSD_7_4
+D/breeze////
+D/breeze-gtk////
+D/kactivitymanagerd////
+D/kde-cli-tools////
+D/kde-gtk-config////
+D/kdecoration////
+D/kdeplasma-addons////
+D/kgamma5////
+D/khotkeys////
+D/kinfocenter////
+D/kmenuedit////
+D/kscreen////
+D/kscreenlocker////
+D/ksshaskpass////
+D/ksysguard////
+D/ksystemstats////
+D/kwayland-integration////
+D/kwin////
+D/kwrited////
+D/layer-shell-qt////
+D/libkscreen////
+D/libksysguard////
+D/milou////
+D/oxygen////
+D/oxygen-sounds////
+D/plasma-desktop////
+D/plasma-nano////
+D/plasma-pa////
+D/plasma-sdk////
+D/plasma-workspace////
+D/plasma-workspace-wallpapers////
+D/polkit-kde-agent-1////
+D/qqc2-breeze-style////
+D/systemsettings////
+D/xdg-desktop-portal-kde////

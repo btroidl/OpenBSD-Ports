@@ -1,0 +1,8 @@
+/patch-Makefile/1.4/Fri Mar 11 19:04:30 2022//TOPENBSD_7_4
+/patch-dll_base_cpp/1.3/Mon Oct 10 18:36:02 2022//TOPENBSD_7_4
+/patch-dll_common_includes_h/1.4/Mon Oct 10 18:36:02 2022//TOPENBSD_7_4
+/patch-dll_network_cpp/1.3/Mon Oct 10 18:36:02 2022//TOPENBSD_7_4
+/patch-dll_wrap_cpp/1.2/Fri Mar 11 19:04:30 2022//TOPENBSD_7_4
+/patch-sdk_includes_steam_gameserver_h/1.2/Sun Jul 30 19:57:20 2023//TOPENBSD_7_4
+/patch-sdk_includes_steamclientpublic_h/1.5/Sun Jul 30 19:57:20 2023//TOPENBSD_7_4
+D

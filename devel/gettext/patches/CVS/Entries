@@ -1,0 +1,10 @@
+/patch-gettext-runtime_intl_Makefile_in/1.11/Wed Sep 20 15:31:10 2023//TOPENBSD_7_4
+/patch-gettext-runtime_intl_configure/1.2/Wed Sep 20 15:31:10 2023//TOPENBSD_7_4
+/patch-gettext-runtime_intl_dcigettext_c/1.13/Tue Sep 12 20:15:49 2023//TOPENBSD_7_4
+/patch-gettext-runtime_intl_gnulib-lib_relocatable_c/1.1/Tue Sep 12 20:15:49 2023//TOPENBSD_7_4
+/patch-gettext-runtime_intl_l10nflist_c/1.9/Tue Sep 12 20:15:49 2023//TOPENBSD_7_4
+/patch-gettext-runtime_intl_log_c/1.6/Tue Sep 12 20:15:49 2023//TOPENBSD_7_4
+/patch-gettext-tools_gnulib-lib_Makefile_in/1.16/Wed Sep 20 15:31:10 2023//TOPENBSD_7_4
+/patch-gettext-tools_gnulib-lib_asyncsafe-spin_c/1.4/Tue Sep 12 20:15:49 2023//TOPENBSD_7_4
+/patch-gettext-tools_src_Makefile_in/1.17/Wed Sep 20 15:31:10 2023//TOPENBSD_7_4
+D
